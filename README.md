@@ -1,4 +1,7 @@
 ## Hi there 👋
+---
+I’m currently on an exciting journey in the vast and dynamic field of cybersecurity and lot of things in IT. My goal is to grow through real-world experience.
+Do visit my personal website for my journey [cheamirul.site](cheamirul.site)
 
 <!--
 **cheamirul/cheamirul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
